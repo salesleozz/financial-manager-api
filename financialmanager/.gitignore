@@ -1,0 +1,32 @@
+# Arquivos de Log
+*.log
+
+# Arquivos de build e pacotes
+*.jar
+*.war
+*.ear
+
+# Pasta de build do Maven
+/target/
+
+# Logs de crash da JVM
+hs_err_pid*
+
+### Arquivos de IDEs ###
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+
+# Eclipse / STS
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# --- Regras Personalizadas --- #
+# Ignorar o arquivo de propriedades para não expor segredos
+/src/main/resources/application.properties

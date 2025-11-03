@@ -40,12 +40,3 @@ Para rodar este projeto localmente, você precisará ter instalado:
 * Um SGBD como **PostgreSQL** ou **MySQL** (e suas credenciais de acesso)
 * Uma IDE de sua preferência (IntelliJ IDEA, VS Code, Eclipse, etc.)
 
-## 🚀 Instalação e Configuração
-
-Siga os passos abaixo para configurar e executar a API em seu ambiente local:
-
-### 1. Clone o Repositório
-
-```bash
-git clone [https://github.com/salesleozz/financial-manager-api.git](https://github.com/salesleozz/financial-manager-api.git)
-cd financial-manager-api
